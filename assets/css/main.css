@@ -467,7 +467,9 @@ aside nav ul a:hover {
 	background:rgba(135,116,169,0.42)
 }
 aside.slide {
-	bottom:0
+	bottom:0;
+	overflow-y: auto;
+	overflow-x: hidden;
 }
 a.slideButton.slide {
 	pointer-events:none
@@ -485,7 +487,7 @@ a.slideButton.slide {
 .overlay.slide {
 	pointer-events:auto;
 	bottom:162px;
-	background:rgba(0,0,0,0.6)
+	background:rgba(0,0,0,0.6);
 }
 input[type="search"] {
 	-ms-box-sizing:content-box;
