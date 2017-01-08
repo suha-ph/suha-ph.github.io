@@ -717,7 +717,7 @@ html,body {
 }
 @media only screen and (max-width:320px) {
 	.header-site .recent:last-child {
-		display:none
+		/*display:none*/
 	}
 }
 .header-site .recent:before,.header-site .recent:after {
