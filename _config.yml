@@ -12,6 +12,10 @@ github_username:  suha-ph
 gplus_username:  115867250928590149623
 disqus_username: suha-ph
 
+# Pagination
+paginate: 1
+paginate_path: "/posts/page/:num/"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
