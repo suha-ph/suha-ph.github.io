@@ -62,6 +62,9 @@
          case "t":
           $("#sidebar ul:nth-child(2) li:nth-child(3) a").trigger('click');
           break;
+         case "h":
+          $("#navigation ul:nth-child(2) li:nth-child(4) a").trigger('click');
+          break;
       }
     }
     if($('.search-form').hasClass('active')){
