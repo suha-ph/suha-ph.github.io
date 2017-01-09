@@ -19,13 +19,12 @@ $bg
 		list-style-type none
 	.person
 		img
-			size(130, 130)
-			border-radius 100%
+			size(200, auto)
 			margin-bottom 80px
 	.recent
 		+below(320px)
 			&:last-child
-				display none
+				// display none
 		center(450px)
 			
 		p
@@ -40,7 +39,7 @@ $bg
 				font-size rem(17px)
 				border-bottom 1px solid rgb(135, 116, 169)
 				&:hover
-					background rgba(135,116,169,0.42)
+					background mainHover
 	h1,h2
 		color: sec
 		text-align center
