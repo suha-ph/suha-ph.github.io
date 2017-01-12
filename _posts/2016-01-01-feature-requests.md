@@ -8,7 +8,7 @@ tags:
 - feature
 description: ''
 categories:
-- Su!Ha! Quest
+- Su:Ha! Quest
 serie: learn
 ---
 

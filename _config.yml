@@ -1,5 +1,5 @@
 # Site settings
-title: Su!Ha!
+title: Su:Ha!
 description: "Support Page"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
@@ -29,7 +29,7 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: about Su!Ha!
+  - title: about Su:Ha!
     url: /about
   - title: view tags
     url: /tags
